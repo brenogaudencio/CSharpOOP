@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\bin\Debug\net10.0\ExPropostosClasse03.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\bin\Debug\net10.0\ExPropostosClasse03.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\bin\Debug\net10.0\ExPropostosClasse03.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\bin\Debug\net10.0\ExPropostosClasse03.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\bin\Debug\net10.0\ExPropostosClasse03.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\refint\ExPropostosClasse03.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ExPropostosClasse03.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\ExPropostosClasse03\ExPropostosClasse03\obj\Debug\net10.0\ref\ExPropostosClasse03.dll
