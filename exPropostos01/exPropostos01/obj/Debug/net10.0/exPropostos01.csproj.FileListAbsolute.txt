@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\bin\Debug\net10.0\exPropostos01.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\bin\Debug\net10.0\exPropostos01.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\bin\Debug\net10.0\exPropostos01.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\bin\Debug\net10.0\exPropostos01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\bin\Debug\net10.0\exPropostos01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\refint\exPropostos01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\exPropostos01.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostos01\exPropostos01\obj\Debug\net10.0\ref\exPropostos01.dll

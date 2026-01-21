@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\bin\Debug\net10.0\exPropostosClass02.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\bin\Debug\net10.0\exPropostosClass02.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\bin\Debug\net10.0\exPropostosClass02.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\bin\Debug\net10.0\exPropostosClass02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\bin\Debug\net10.0\exPropostosClass02.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\refint\exPropostosClass02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\exPropostosClass02.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\exPropostosClass02\exPropostosClass02\obj\Debug\net10.0\ref\exPropostosClass02.dll

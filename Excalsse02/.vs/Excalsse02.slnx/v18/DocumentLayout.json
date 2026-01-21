@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Excalsse02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{689730A9-605B-7232-CDE0-1835E0D082F1}|Excalsse02\\Excalsse02.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\excalsse02\\excalsse02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689730A9-605B-7232-CDE0-1835E0D082F1}|Excalsse02\\Excalsse02.csproj|solutionrelative:excalsse02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{689730A9-605B-7232-CDE0-1835E0D082F1}|Excalsse02\\Excalsse02.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\excalsse02\\excalsse02\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{689730A9-605B-7232-CDE0-1835E0D082F1}|Excalsse02\\Excalsse02.csproj|solutionrelative:excalsse02\\funcionario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Funcionario.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Excalsse02\\Excalsse02\\Funcionario.cs",
+              "RelativeDocumentMoniker": "Excalsse02\\Funcionario.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Excalsse02\\Excalsse02\\Funcionario.cs",
+              "RelativeToolTip": "Excalsse02\\Funcionario.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:19:50.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Excalsse02\\Excalsse02\\Program.cs",
+              "RelativeDocumentMoniker": "Excalsse02\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Excalsse02\\Excalsse02\\Program.cs",
+              "RelativeToolTip": "Excalsse02\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T09:19:16.012Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\OOPEx01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{98211115-228B-0F78-FD9F-5F3F3C7681EA}|OOPEx01\\OOPEx01.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\oopex01\\oopex01\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98211115-228B-0F78-FD9F-5F3F3C7681EA}|OOPEx01\\OOPEx01.csproj|solutionrelative:oopex01\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{98211115-228B-0F78-FD9F-5F3F3C7681EA}|OOPEx01\\OOPEx01.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\oopex01\\oopex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{98211115-228B-0F78-FD9F-5F3F3C7681EA}|OOPEx01\\OOPEx01.csproj|solutionrelative:oopex01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\OOPEx01\\OOPEx01\\Triangulo.cs",
+              "RelativeDocumentMoniker": "OOPEx01\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\OOPEx01\\OOPEx01\\Triangulo.cs*",
+              "RelativeToolTip": "OOPEx01\\Triangulo.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:42:42.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\OOPEx01\\OOPEx01\\Program.cs",
+              "RelativeDocumentMoniker": "OOPEx01\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\OOPEx01\\OOPEx01\\Program.cs*",
+              "RelativeToolTip": "OOPEx01\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T23:39:28.811Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

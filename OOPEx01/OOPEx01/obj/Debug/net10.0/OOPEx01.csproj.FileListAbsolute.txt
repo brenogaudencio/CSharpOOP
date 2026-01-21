@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\bin\Debug\net10.0\OOPEx01.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\bin\Debug\net10.0\OOPEx01.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\bin\Debug\net10.0\OOPEx01.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\bin\Debug\net10.0\OOPEx01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\bin\Debug\net10.0\OOPEx01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\refint\OOPEx01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\OOPEx01.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\OOPEx01\OOPEx01\obj\Debug\net10.0\ref\OOPEx01.dll

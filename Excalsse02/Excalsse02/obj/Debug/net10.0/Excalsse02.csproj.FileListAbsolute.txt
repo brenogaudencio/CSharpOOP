@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\bin\Debug\net10.0\Excalsse02.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\bin\Debug\net10.0\Excalsse02.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\bin\Debug\net10.0\Excalsse02.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\bin\Debug\net10.0\Excalsse02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\bin\Debug\net10.0\Excalsse02.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\refint\Excalsse02.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\Excalsse02.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Excalsse02\Excalsse02\obj\Debug\net10.0\ref\Excalsse02.dll

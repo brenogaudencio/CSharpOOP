@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Exclasse01\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9F2D59-570C-DB5F-E883-1F0E152FF3FF}|Exclasse01\\Exclasse01.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\exclasse01\\exclasse01\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9F2D59-570C-DB5F-E883-1F0E152FF3FF}|Exclasse01\\Exclasse01.csproj|solutionrelative:exclasse01\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C9F2D59-570C-DB5F-E883-1F0E152FF3FF}|Exclasse01\\Exclasse01.csproj|c:\\users\\brenogaudencio\\documents\\github\\c#\\csharp e oop\\exclasse01\\exclasse01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C9F2D59-570C-DB5F-E883-1F0E152FF3FF}|Exclasse01\\Exclasse01.csproj|solutionrelative:exclasse01\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 319,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Exclasse01\\Exclasse01\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Exclasse01\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Exclasse01\\Exclasse01\\Pessoa.cs",
+              "RelativeToolTip": "Exclasse01\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:57:13.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Exclasse01\\Exclasse01\\Program.cs",
+              "RelativeDocumentMoniker": "Exclasse01\\Program.cs",
+              "ToolTip": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\Exclasse01\\Exclasse01\\Program.cs",
+              "RelativeToolTip": "Exclasse01\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T08:55:48.313Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 81,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

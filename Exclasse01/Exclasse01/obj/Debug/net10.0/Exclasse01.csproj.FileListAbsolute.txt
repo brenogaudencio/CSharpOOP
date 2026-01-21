@@ -1,0 +1,14 @@
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\bin\Debug\net10.0\Exclasse01.exe
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\bin\Debug\net10.0\Exclasse01.deps.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\bin\Debug\net10.0\Exclasse01.runtimeconfig.json
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\bin\Debug\net10.0\Exclasse01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\bin\Debug\net10.0\Exclasse01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.AssemblyInfoInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.AssemblyInfo.cs
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.csproj.CoreCompileInputs.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\refint\Exclasse01.dll
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.pdb
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\Exclasse01.genruntimeconfig.cache
+C:\Users\BrenoGaudencio\Documents\GitHub\C#\CSharp e OOP\Exclasse01\Exclasse01\obj\Debug\net10.0\ref\Exclasse01.dll
