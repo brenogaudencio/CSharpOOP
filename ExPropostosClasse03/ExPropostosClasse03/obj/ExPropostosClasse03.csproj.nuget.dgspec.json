@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj": {}
+    "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj": {
+    "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj",
+        "projectUniqueName": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj",
         "projectName": "ExPropostosClasse03",
-        "projectPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj",
+        "projectPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ExPropostosClasse03\\ExPropostosClasse03\\ExPropostosClasse03.csproj",
         "packagesPath": "C:\\Users\\BrenoGaudencio\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\ExPropostosClasse03\\ExPropostosClasse03\\obj\\",
+        "outputPath": "C:\\Users\\BrenoGaudencio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ExPropostosClasse03\\ExPropostosClasse03\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

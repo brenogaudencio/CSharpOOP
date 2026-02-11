@@ -15,7 +15,7 @@ namespace MyApp
             Console.Write("Nome do aluno: ");
             x.Nome = Console.ReadLine();
             Console.WriteLine("Digite as três notas do aluno: ");
-            x.Nota1 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            x.Nota1 = d     ouble.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.Nota2 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             x.Nota3 = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.WriteLine("NOTA FINAL = " + x.NotaFinal().ToString("F2", CultureInfo.InvariantCulture));
