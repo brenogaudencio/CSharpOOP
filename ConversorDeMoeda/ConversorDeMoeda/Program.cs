@@ -1,6 +1,7 @@
 ﻿using System;
 using ConversorDeMoeda;
 using System.Globalization;
+using System.Runtime.CompilerServices;
 
 namespace MyApp
 {
@@ -8,15 +9,15 @@ namespace MyApp
     {
         static void Main(string[] args)
         {
-            Console.Write("Qual é a cotação do dólar? " + Conversor.Dolar.ToString("F2"));
+            Console.Write("Qual é a cotação do dólar? ");
+            double cotacao = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
-            Console.WriteLine();
             Console.Write("Quantos dólares você vai comprar? ");
-            double quantidade = double.Parse(Console.ReadLine(),CultureInfo.InvariantCulture);
-            double valorEmReais = Conversor.ValorReal(quantidade);
-            double valorTaxado = Conversor.ValorTaxado(valorEmReais);
-            Console.Write("Valor a ser pago em reais = $" + valorTaxado.ToString("F2", CultureInfo.InvariantCulture));
+            double quantia = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
+            double result = Conversor.DolarParaReal(quantia, cotacao);
+
+            Console.WriteLine("Valor a ser pago em reais = " + result.ToString("F2", CultureInfo.InvariantCulture));
         }
     }
 }

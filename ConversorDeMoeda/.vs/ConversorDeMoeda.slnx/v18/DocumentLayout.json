@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CA854F09-0E98-403A-A7A9-499E98E9F4B2}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA854F09-0E98-403A-A7A9-499E98E9F4B2}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CA854F09-0E98-403A-A7A9-499E98E9F4B2}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CA854F09-0E98-403A-A7A9-499E98E9F4B2}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,8 +18,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -28,14 +32,10 @@
               "RelativeDocumentMoniker": "ConversorDeMoeda\\Conversor.cs",
               "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Conversor.cs",
               "RelativeToolTip": "ConversorDeMoeda\\Conversor.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T00:42:38.528Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             },
             {
               "$type": "Document",
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "ConversorDeMoeda\\Program.cs",
               "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Program.cs",
               "RelativeToolTip": "ConversorDeMoeda\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T00:10:58.235Z",
               "EditorCaption": ""
