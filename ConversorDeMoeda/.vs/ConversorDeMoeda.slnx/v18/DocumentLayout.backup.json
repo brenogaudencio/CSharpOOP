@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\conversor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\conversordemoeda\\conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E432AAC-D700-8EA3-14B7-2054FB8D194F}|ConversorDeMoeda\\ConversorDeMoeda.csproj|solutionrelative:conversordemoeda\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,12 +26,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Conversor.cs",
               "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Conversor.cs",
               "RelativeDocumentMoniker": "ConversorDeMoeda\\Conversor.cs",
-              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Conversor.cs*",
-              "RelativeToolTip": "ConversorDeMoeda\\Conversor.cs*",
+              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Conversor.cs",
+              "RelativeToolTip": "ConversorDeMoeda\\Conversor.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T00:42:38.528Z",
@@ -39,13 +39,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Program.cs",
               "RelativeDocumentMoniker": "ConversorDeMoeda\\Program.cs",
-              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Program.cs*",
-              "RelativeToolTip": "ConversorDeMoeda\\Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\ConversorDeMoeda\\ConversorDeMoeda\\Program.cs",
+              "RelativeToolTip": "ConversorDeMoeda\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-11T00:10:58.235Z",
               "EditorCaption": ""
