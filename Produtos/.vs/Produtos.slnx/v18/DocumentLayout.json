@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Produtos\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\produtos\\produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|solutionrelative:produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\produtos\\produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|solutionrelative:produtos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\produtos\\produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE0D0F53-CC3E-172C-E299-CC6F102D18D0}|Produtos\\Produtos.csproj|solutionrelative:produtos\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 269,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,26 +26,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Produto.cs",
               "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Produtos\\Produtos\\Produto.cs",
               "RelativeDocumentMoniker": "Produtos\\Produto.cs",
               "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Produtos\\Produtos\\Produto.cs",
               "RelativeToolTip": "Produtos\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T02:05:39.575Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Produtos\\Produtos\\Program.cs",
               "RelativeDocumentMoniker": "Produtos\\Program.cs",
               "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Produtos\\Produtos\\Program.cs",
               "RelativeToolTip": "Produtos\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-02-12T01:57:02.86Z",
               "EditorCaption": ""

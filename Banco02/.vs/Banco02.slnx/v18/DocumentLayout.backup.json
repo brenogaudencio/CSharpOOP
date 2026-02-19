@@ -1,0 +1,64 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Banco02\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F554179-F15F-4F85-B62A-A315393D4B22}|Banco02\\Banco02.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\banco02\\banco02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F554179-F15F-4F85-B62A-A315393D4B22}|Banco02\\Banco02.csproj|solutionrelative:banco02\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F554179-F15F-4F85-B62A-A315393D4B22}|Banco02\\Banco02.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\banco02\\banco02\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F554179-F15F-4F85-B62A-A315393D4B22}|Banco02\\Banco02.csproj|solutionrelative:banco02\\contabancaria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ContaBancaria.cs",
+              "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Banco02\\Banco02\\ContaBancaria.cs",
+              "RelativeDocumentMoniker": "Banco02\\ContaBancaria.cs",
+              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Banco02\\Banco02\\ContaBancaria.cs",
+              "RelativeToolTip": "Banco02\\ContaBancaria.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAkwBcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:43:04.499Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 269,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Banco02\\Banco02\\Program.cs",
+              "RelativeDocumentMoniker": "Banco02\\Program.cs",
+              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Banco02\\Banco02\\Program.cs",
+              "RelativeToolTip": "Banco02\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwC8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T00:36:58.805Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
