@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ExPropostosClasse03")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eb7c774de51318b424845fc926de317de85e8cb7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+53028bab410d8d7df3e12390d8606f9745d99685")]
 [assembly: System.Reflection.AssemblyProductAttribute("ExPropostosClasse03")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ExPropostosClasse03")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

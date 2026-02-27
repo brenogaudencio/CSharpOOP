@@ -7,9 +7,9 @@ namespace Produtos
 {
     internal class Produto
     {
-        private string _nome;
-        public double Preco { get; private set; }
-        public int Quantidade { get; private set; }
+            private string _nome;
+            public double Preco { get; private set; }
+            public int Quantidade { get; private set; }
 
         public Produto()
         {
