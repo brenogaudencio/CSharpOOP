@@ -3,44 +3,31 @@
   "WorkspaceRootPath": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0A81F50D-EAB2-4CEC-8963-A6EADED459BB}|Vetores2\\Vetores2.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\vetores2\\vetores2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A81F50D-EAB2-4CEC-8963-A6EADED459BB}|Vetores2\\Vetores2.csproj|solutionrelative:vetores2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C2A1DA-7D12-F21F-7B40-C6C335D0ADA6}|Vetores2\\Vetores2.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\vetores2\\vetores2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C2A1DA-7D12-F21F-7B40-C6C335D0ADA6}|Vetores2\\Vetores2.csproj|solutionrelative:vetores2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0A81F50D-EAB2-4CEC-8963-A6EADED459BB}|Vetores2\\Vetores2.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\vetores2\\vetores2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0A81F50D-EAB2-4CEC-8963-A6EADED459BB}|Vetores2\\Vetores2.csproj|solutionrelative:vetores2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D0C2A1DA-7D12-F21F-7B40-C6C335D0ADA6}|Vetores2\\Vetores2.csproj|c:\\users\\breno gaud\u00EAncio\\documents\\github\\c#\\csharp e oop\\csharpoop\\vetores2\\vetores2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0C2A1DA-7D12-F21F-7B40-C6C335D0ADA6}|Vetores2\\Vetores2.csproj|solutionrelative:vetores2\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
     {
-      "Orientation": 1,
+      "Orientation": 0,
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedHeight": 200,
-          "SelectedChildIndex": 1,
+          "DockedWidth": 269,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\Vetores2\\Product.cs",
-              "RelativeDocumentMoniker": "Vetores2\\Product.cs",
-              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\Vetores2\\Product.cs",
-              "RelativeToolTip": "Vetores2\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-03T01:22:40.613Z",
-              "EditorCaption": ""
             }
           ]
         },
         {
-          "DockedHeight": 200,
+          "DockedWidth": 200,
           "SelectedChildIndex": 0,
           "Children": [
             {
@@ -51,9 +38,28 @@
               "RelativeDocumentMoniker": "Vetores2\\Program.cs",
               "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\Vetores2\\Program.cs",
               "RelativeToolTip": "Vetores2\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-03T01:21:27.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\Vetores2\\Product.cs",
+              "RelativeDocumentMoniker": "Vetores2\\Product.cs",
+              "ToolTip": "C:\\Users\\Breno Gaud\u00EAncio\\Documents\\GitHub\\C#\\CSharp e OOP\\CSharpOOP\\Vetores2\\Vetores2\\Product.cs",
+              "RelativeToolTip": "Vetores2\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-03T01:22:40.613Z",
               "EditorCaption": ""
             }
           ]
